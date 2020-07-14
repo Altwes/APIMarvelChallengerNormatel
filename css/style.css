@@ -1,0 +1,10 @@
+img.img-thumbnail{
+    width: 80%;
+    height: 80%;
+    border-color:#000;
+    border-width: 0.2cm;
+}
+body {
+    background-image: url("/img/wp2903386.gif");
+}
+
